@@ -21,33 +21,6 @@ O iPhone foi modelado com base em três principais funções:
 - adicionar nova aba
 - atualizar página
 
-## Estrutura do Projeto
-
-```text
-src/
-  ReprodutorMusical.java
-  AparelhoTelefonico.java
-  NavegadorInternet.java
-  IPhone.java
-  Main.java
-
-
----
-
-## Diagrama UML
-
-![Diagrama UML](diagrama-uml.png)
-
----
-
-## Tecnologias utilizadas
-
-- Java  
-- UML  
-- GitHub  
-
----
-
-## Autor
+### Autor
 
 Samuel Viana
